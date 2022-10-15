@@ -1,4 +1,4 @@
-# weeja-product-backend
+# api gateway
 
 - download, fork or clone the repository
 - run `yarn` to install the dependencies
